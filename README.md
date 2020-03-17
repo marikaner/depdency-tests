@@ -1,1 +1,2 @@
-# depdency-tests
+# Reproduce the duplicate dependencies issue
+
